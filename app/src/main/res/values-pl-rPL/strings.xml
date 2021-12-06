@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChimpGame</string>
+    <string name="hide">UKRYJ</string>
+    <string name="draw">LOSUJ</string>
+    <string name="score">0</string>
+    <string name="developer">Karol Chojnowski</string>
+    <string name="result">SPRAWDŹ</string>
+</resources>

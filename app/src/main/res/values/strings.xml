@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChimpGame</string>
+    <string name="developer">Karol Chojnowski</string>
+    <string name="score">0</string>
+    <string name="hide">HIDE</string>
+    <string name="draw">DRAW</string>
+    <string name="result">RESULT</string>
+</resources>
